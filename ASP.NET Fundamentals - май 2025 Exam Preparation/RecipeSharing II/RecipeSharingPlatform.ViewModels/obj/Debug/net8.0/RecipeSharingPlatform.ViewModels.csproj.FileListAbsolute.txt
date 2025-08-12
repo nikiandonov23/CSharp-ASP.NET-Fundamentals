@@ -1,0 +1,17 @@
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\bin\Debug\net8.0\RecipeSharingPlatform.ViewModels.deps.json
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\bin\Debug\net8.0\RecipeSharingPlatform.ViewModels.dll
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\bin\Debug\net8.0\RecipeSharingPlatform.ViewModels.pdb
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.dll
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.pdb
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\obj\Debug\net8.0\RecipeSharingPlatform.ViewModels.csproj.AssemblyReference.cache
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\obj\Debug\net8.0\RecipeSharingPlatform.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\obj\Debug\net8.0\RecipeSharingPlatform.ViewModels.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\obj\Debug\net8.0\RecipeSharingPlatform.ViewModels.AssemblyInfo.cs
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\obj\Debug\net8.0\RecipeSharingPlatform.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\obj\Debug\net8.0\RecipeSh.61D32694.Up2Date
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\obj\Debug\net8.0\RecipeSharingPlatform.ViewModels.dll
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\obj\Debug\net8.0\refint\RecipeSharingPlatform.ViewModels.dll
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\obj\Debug\net8.0\RecipeSharingPlatform.ViewModels.pdb
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\obj\Debug\net8.0\ref\RecipeSharingPlatform.ViewModels.dll
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\bin\Debug\net8.0\RecipeSharingPlatform.ViewModels.runtimeconfig.json
+C:\Users\nikia\Desktop\RecipeSharingPlatform (1)\RecipeSharingPlatform.ViewModels\obj\Debug\net8.0\RecipeSharingPlatform.ViewModels.genruntimeconfig.cache

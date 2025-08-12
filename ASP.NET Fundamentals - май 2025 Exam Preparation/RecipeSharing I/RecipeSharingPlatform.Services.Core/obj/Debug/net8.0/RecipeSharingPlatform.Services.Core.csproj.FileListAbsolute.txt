@@ -1,0 +1,42 @@
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Services.Core.deps.json
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Services.Core.dll
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Services.Core.pdb
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Data.dll
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Data.Models.dll
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.dll
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.ViewModels.dll
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Data.Models.pdb
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Data.pdb
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.ViewModels.pdb
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.pdb
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.csproj.AssemblyReference.cache
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.AssemblyInfo.cs
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSh.F185B305.Up2Date
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.dll
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\refint\RecipeSharingPlatform.Services.Core.dll
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.pdb
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\ref\RecipeSharingPlatform.Services.Core.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Services.Core.deps.json
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Services.Core.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Services.Core.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Data.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Data.Models.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.ViewModels.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Data.Models.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.Data.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.ViewModels.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.csproj.AssemblyReference.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.AssemblyInfo.cs
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSh.F185B305.Up2Date
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\refint\RecipeSharingPlatform.Services.Core.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\RecipeSharingPlatform.Services.Core.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.Services.Core\obj\Debug\net8.0\ref\RecipeSharingPlatform.Services.Core.dll

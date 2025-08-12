@@ -1,0 +1,16 @@
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\obj\Debug\net8.0\Horizons.Data.Models.csproj.AssemblyReference.cache
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\obj\Debug\net8.0\Horizons.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\obj\Debug\net8.0\Horizons.Data.Models.AssemblyInfoInputs.cache
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\obj\Debug\net8.0\Horizons.Data.Models.AssemblyInfo.cs
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\obj\Debug\net8.0\Horizons.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\obj\Debug\net8.0\Horizons.Data.Models.sourcelink.json
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\bin\Debug\net8.0\Horizons.Data.Models.deps.json
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\bin\Debug\net8.0\Horizons.Data.Models.dll
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\bin\Debug\net8.0\Horizons.Data.Models.pdb
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\bin\Debug\net8.0\Horizons.GCommon.dll
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\bin\Debug\net8.0\Horizons.GCommon.pdb
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\obj\Debug\net8.0\Horizons.DB7772F9.Up2Date
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\obj\Debug\net8.0\Horizons.Data.Models.dll
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\obj\Debug\net8.0\refint\Horizons.Data.Models.dll
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\obj\Debug\net8.0\Horizons.Data.Models.pdb
+C:\Users\nikia\source\repos\ASP.NET EXAM PREPARATION\Horizons-Skeleton\Horizons.Data.Models\obj\Debug\net8.0\ref\Horizons.Data.Models.dll

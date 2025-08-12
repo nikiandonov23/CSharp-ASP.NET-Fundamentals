@@ -1,0 +1,12 @@
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\bin\Debug\net8.0\CinemaApp.Data.Common.deps.json
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\bin\Debug\net8.0\CinemaApp.Data.Common.dll
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\bin\Debug\net8.0\CinemaApp.Data.Common.pdb
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\obj\Debug\net8.0\CinemaApp.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\obj\Debug\net8.0\CinemaApp.Data.Common.AssemblyInfoInputs.cache
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\obj\Debug\net8.0\CinemaApp.Data.Common.AssemblyInfo.cs
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\obj\Debug\net8.0\CinemaApp.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\obj\Debug\net8.0\CinemaApp.Data.Common.sourcelink.json
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\obj\Debug\net8.0\CinemaApp.Data.Common.dll
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\obj\Debug\net8.0\refint\CinemaApp.Data.Common.dll
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\obj\Debug\net8.0\CinemaApp.Data.Common.pdb
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Data.Common\obj\Debug\net8.0\ref\CinemaApp.Data.Common.dll

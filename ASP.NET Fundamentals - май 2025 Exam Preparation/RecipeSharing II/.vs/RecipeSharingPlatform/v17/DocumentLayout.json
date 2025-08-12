@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB6FCD5-D27B-4D80-99AB-21817CF658A6}|RecipeSharingPlatform.Web\\RecipeSharingPlatform.Web.csproj|c:\\users\\nikia\\desktop\\recipesharingplatform (1)\\recipesharingplatform.web\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB6FCD5-D27B-4D80-99AB-21817CF658A6}|RecipeSharingPlatform.Web\\RecipeSharingPlatform.Web.csproj|solutionrelative:recipesharingplatform.web\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2AEE5F-F66A-45DE-BA52-7A3152583622}|RecipeSharingPlatform.Services.Core\\RecipeSharingPlatform.Services.Core.csproj|c:\\users\\nikia\\desktop\\recipesharingplatform (1)\\recipesharingplatform.services.core\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2AEE5F-F66A-45DE-BA52-7A3152583622}|RecipeSharingPlatform.Services.Core\\RecipeSharingPlatform.Services.Core.csproj|solutionrelative:recipesharingplatform.services.core\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2AEE5F-F66A-45DE-BA52-7A3152583622}|RecipeSharingPlatform.Services.Core\\RecipeSharingPlatform.Services.Core.csproj|c:\\users\\nikia\\desktop\\recipesharingplatform (1)\\recipesharingplatform.services.core\\contracts\\irecipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2AEE5F-F66A-45DE-BA52-7A3152583622}|RecipeSharingPlatform.Services.Core\\RecipeSharingPlatform.Services.Core.csproj|solutionrelative:recipesharingplatform.services.core\\contracts\\irecipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB6FCD5-D27B-4D80-99AB-21817CF658A6}|RecipeSharingPlatform.Web\\RecipeSharingPlatform.Web.csproj|c:\\users\\nikia\\desktop\\recipesharingplatform (1)\\recipesharingplatform.web\\views\\recipe\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAB6FCD5-D27B-4D80-99AB-21817CF658A6}|RecipeSharingPlatform.Web\\RecipeSharingPlatform.Web.csproj|solutionrelative:recipesharingplatform.web\\views\\recipe\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Web\\Views\\Recipe\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RecipeSharingPlatform.Web\\Views\\Recipe\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Web\\Views\\Recipe\\Delete.cshtml",
+              "RelativeToolTip": "RecipeSharingPlatform.Web\\Views\\Recipe\\Delete.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T14:32:57.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Services.Core\\Contracts\\IRecipeService.cs",
+              "RelativeDocumentMoniker": "RecipeSharingPlatform.Services.Core\\Contracts\\IRecipeService.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Services.Core\\Contracts\\IRecipeService.cs",
+              "RelativeToolTip": "RecipeSharingPlatform.Services.Core\\Contracts\\IRecipeService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:35:11.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Services.Core\\RecipeService.cs",
+              "RelativeDocumentMoniker": "RecipeSharingPlatform.Services.Core\\RecipeService.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Services.Core\\RecipeService.cs",
+              "RelativeToolTip": "RecipeSharingPlatform.Services.Core\\RecipeService.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAuwDwBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:40:34.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Web\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "RecipeSharingPlatform.Web\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Web\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "RecipeSharingPlatform.Web\\Controllers\\RecipeController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAwJIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T11:29:31.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\Horizons-Skeleton perfekteN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C25734-2A13-4622-80A8-70CCD111FC8E}|Horizons.Services.Core\\Horizons.Services.Core.csproj|c:\\users\\nikia\\desktop\\exapm preparation asp.net\\horizons-skeleton perfekten\\horizons.services.core\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C25734-2A13-4622-80A8-70CCD111FC8E}|Horizons.Services.Core\\Horizons.Services.Core.csproj|solutionrelative:horizons.services.core\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\Horizons-Skeleton perfekteN\\Horizons.Services.Core\\DestinationService.cs",
+              "RelativeDocumentMoniker": "Horizons.Services.Core\\DestinationService.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\Horizons-Skeleton perfekteN\\Horizons.Services.Core\\DestinationService.cs",
+              "RelativeToolTip": "Horizons.Services.Core\\DestinationService.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAuwAcBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:01:43.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

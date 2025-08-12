@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CinemaApp.Web.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CinemaApp.GCommon": "1.0.0"
+        },
+        "runtime": {
+          "CinemaApp.Web.Infrastructure.dll": {}
+        }
+      },
+      "CinemaApp.GCommon/1.0.0": {
+        "runtime": {
+          "CinemaApp.GCommon.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CinemaApp.Web.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CinemaApp.GCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

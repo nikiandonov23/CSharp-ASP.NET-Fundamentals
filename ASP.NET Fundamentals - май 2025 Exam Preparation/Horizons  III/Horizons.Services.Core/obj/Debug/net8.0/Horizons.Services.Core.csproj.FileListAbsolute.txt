@@ -1,0 +1,46 @@
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Services.Core.deps.json
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Services.Core.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Services.Core.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Data.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Data.Models.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.GCommon.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Web.ViewModels.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Data.Models.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Data.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.GCommon.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Web.ViewModels.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.csproj.AssemblyReference.cache
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.AssemblyInfo.cs
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\obj\Debug\net8.0\Horizons.1EA59616.Up2Date
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\obj\Debug\net8.0\refint\Horizons.Services.Core.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\obj\Debug\net8.0\ref\Horizons.Services.Core.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Services.Core.runtimeconfig.json
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.genruntimeconfig.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Services.Core.deps.json
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Services.Core.runtimeconfig.json
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Services.Core.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Services.Core.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Data.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Data.Models.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.GCommon.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Web.ViewModels.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Data.Models.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Data.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.GCommon.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\bin\Debug\net8.0\Horizons.Web.ViewModels.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.csproj.AssemblyReference.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.AssemblyInfo.cs
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\obj\Debug\net8.0\Horizons.1EA59616.Up2Date
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\obj\Debug\net8.0\refint\Horizons.Services.Core.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\obj\Debug\net8.0\Horizons.Services.Core.genruntimeconfig.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Services.Core\obj\Debug\net8.0\ref\Horizons.Services.Core.dll

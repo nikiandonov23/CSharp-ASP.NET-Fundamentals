@@ -1,0 +1,57 @@
+﻿@using GameZone.Models.Game
+@using static GameZone.GCommon.ValidationConstants
+@model GameZone.Models.Game.AddGameViewModel
+
+@{
+    ViewBag.Title = "Blast Game";
+    var today = DateTime.Now.ToString(ValidDateFormat);
+}
+
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="row">
+       <div class="col-sm-12 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+           <form asp-action="Add" method="post">
+               <div class="mb-3">
+                   <label asp-for="Title" class="form-label-add-edit">Game Title</label>
+                   <input asp-for="Title" class="form-control" aria-required="true" />
+                   <span asp-validation-for="Title" class="text-danger"></span>
+               </div>
+               <div class="mb-3">
+                   <label asp-for="ImageUrl" class="form-label-add-edit">Image URL</label>
+                   <input asp-for="ImageUrl" class="form-control" aria-required="false" placeholder="Enter image URL (optional)" />
+                   <span asp-validation-for="ImageUrl" class="text-danger"></span>
+               </div>
+               <div class="mb-3">
+                   <label asp-for="Description" class="form-label-add-edit">Description</label>
+                   <textarea asp-for="Description" class="form-control" aria-required="true" rows="5"></textarea>
+                   <span asp-validation-for="Description" class="text-danger"></span>
+               </div>
+               <div class="mb-3">
+                   <label asp-for="ReleasedOn" class="form-label-add-edit">Released On</label>
+                <input asp-for="ReleasedOn" class="form-control" type="date" />
+
+                   <span asp-validation-for="ReleasedOn" class="text-danger"></span>
+               </div>
+               <div class="mb-3">
+                   <label asp-for="GenreId" class="form-label-add-edit">Select Genre</label>
+                   <select asp-for="GenreId" class="form-control" aria-required="true" asp-items="@(new SelectList(Model.Genres, "Id", "Name"))">
+                       <option value="">Select Genre...</option>
+                   </select>
+                   <span asp-validation-for="GenreId" class="text-danger"></span>
+               </div>
+               <div class="mb-3">
+                   <input class="btn btn-warning btn-dark-text mb-2 w-100 py-3 fw-bold rounded" type="submit" value="Save" />
+               </div>
+           </form>
+       </div>
+   </div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+ 

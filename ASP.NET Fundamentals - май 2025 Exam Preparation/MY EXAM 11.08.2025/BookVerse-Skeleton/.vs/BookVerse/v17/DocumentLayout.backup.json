@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\Desktop\\BookVerse-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\nikia\\desktop\\bookverse-skeleton\\bookverse.web\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|c:\\users\\nikia\\desktop\\bookverse-skeleton\\bookverse.services.core\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|solutionrelative:bookverse.services.core\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|c:\\users\\nikia\\desktop\\bookverse-skeleton\\bookverse.services.core\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|solutionrelative:bookverse.services.core\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\BookVerse-Skeleton\\BookVerse.Services.Core\\BookService.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Core\\BookService.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\BookVerse-Skeleton\\BookVerse.Services.Core\\BookService.cs",
+              "RelativeToolTip": "BookVerse.Services.Core\\BookService.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAUwFEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:47:09.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\BookVerse-Skeleton\\BookVerse.Services.Core\\Contracts\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Core\\Contracts\\IBookService.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\BookVerse-Skeleton\\BookVerse.Services.Core\\Contracts\\IBookService.cs",
+              "RelativeToolTip": "BookVerse.Services.Core\\Contracts\\IBookService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:43:44.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\BookVerse-Skeleton\\BookVerse.Web\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookVerse.Web\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\BookVerse-Skeleton\\BookVerse.Web\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookVerse.Web\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAowJkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:43:36.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

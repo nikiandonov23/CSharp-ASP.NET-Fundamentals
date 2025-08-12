@@ -1,0 +1,11 @@
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.GCommon\bin\Debug\net8.0\BookVerse.GCommon.deps.json
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.GCommon\bin\Debug\net8.0\BookVerse.GCommon.dll
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.GCommon\bin\Debug\net8.0\BookVerse.GCommon.pdb
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.GCommon\obj\Debug\net8.0\BookVerse.GCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.GCommon\obj\Debug\net8.0\BookVerse.GCommon.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.GCommon\obj\Debug\net8.0\BookVerse.GCommon.AssemblyInfo.cs
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.GCommon\obj\Debug\net8.0\BookVerse.GCommon.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.GCommon\obj\Debug\net8.0\BookVerse.GCommon.dll
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.GCommon\obj\Debug\net8.0\refint\BookVerse.GCommon.dll
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.GCommon\obj\Debug\net8.0\BookVerse.GCommon.pdb
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.GCommon\obj\Debug\net8.0\ref\BookVerse.GCommon.dll

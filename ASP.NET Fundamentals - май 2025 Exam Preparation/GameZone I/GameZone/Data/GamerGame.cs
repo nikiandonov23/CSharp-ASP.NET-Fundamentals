@@ -1,0 +1,29 @@
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+
+namespace GameZone.Data;
+
+
+[PrimaryKey(nameof(GameId),nameof(GamerId))]
+public class GamerGame
+{
+
+    [ForeignKey(nameof(Game))]
+    public int GameId { get; set; }
+    public Game Game { get; set; } = null!;
+
+
+
+    [ForeignKey(nameof(Gamer))]
+    public string GamerId { get; set; } = null!;
+    public IdentityUser Gamer { get; set; } = null!;
+
+
+
+    // •	Has GameId – integer, PrimaryKey, foreign key(required)
+    //     •	Has Game – Game
+    // •	Has GamerId – string, PrimaryKey, foreign key(required)
+    //     •	Has Gamer – IdentityUser
+
+}

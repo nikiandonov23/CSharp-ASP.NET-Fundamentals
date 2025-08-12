@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\GameZone-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\nikia\\desktop\\exapm preparation asp.net\\gamezone-skeleton\\gamezone\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\nikia\\desktop\\exapm preparation asp.net\\gamezone-skeleton\\gamezone\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\nikia\\desktop\\exapm preparation asp.net\\gamezone-skeleton\\gamezone\\models\\game\\editgameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\models\\game\\editgameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\nikia\\desktop\\exapm preparation asp.net\\gamezone-skeleton\\gamezone\\models\\game\\addgamegenredropdownviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\models\\game\\addgamegenredropdownviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\nikia\\desktop\\exapm preparation asp.net\\gamezone-skeleton\\gamezone\\services\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\services\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddGameGenreDropDownVIewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\GameZone-Skeleton\\GameZone\\Models\\Game\\AddGameGenreDropDownVIewModel.cs",
+              "RelativeDocumentMoniker": "GameZone\\Models\\Game\\AddGameGenreDropDownVIewModel.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\GameZone-Skeleton\\GameZone\\Models\\Game\\AddGameGenreDropDownVIewModel.cs",
+              "RelativeToolTip": "GameZone\\Models\\Game\\AddGameGenreDropDownVIewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:31:44.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditGameViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\GameZone-Skeleton\\GameZone\\Models\\Game\\EditGameViewModel.cs",
+              "RelativeDocumentMoniker": "GameZone\\Models\\Game\\EditGameViewModel.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\GameZone-Skeleton\\GameZone\\Models\\Game\\EditGameViewModel.cs",
+              "RelativeToolTip": "GameZone\\Models\\Game\\EditGameViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:21:57.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\GameZone-Skeleton\\GameZone\\Services\\Interfaces\\IGameService.cs",
+              "RelativeDocumentMoniker": "GameZone\\Services\\Interfaces\\IGameService.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\GameZone-Skeleton\\GameZone\\Services\\Interfaces\\IGameService.cs",
+              "RelativeToolTip": "GameZone\\Services\\Interfaces\\IGameService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T22:08:42.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\GameZone-Skeleton\\GameZone\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GameZone\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\GameZone-Skeleton\\GameZone\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GameZone\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T19:46:05.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\GameZone-Skeleton\\GameZone\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "GameZone\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\nikia\\Desktop\\EXAPM PREPARATION ASP.NET\\GameZone-Skeleton\\GameZone\\Services\\GameService.cs",
+              "RelativeToolTip": "GameZone\\Services\\GameService.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAwwDoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:24:11.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

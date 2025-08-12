@@ -1,0 +1,12 @@
+﻿@model ShoppingListApp2025.Models.Product
+
+<h2>@Model.Name - Notes</h2>
+
+<ul>
+    @foreach (var note in Model.ProductNotes)
+    {
+        <li>@note.Content</li>
+    }
+</ul>
+
+<a asp-action="Products" class="btn btn-secondary">Back to Products</a>

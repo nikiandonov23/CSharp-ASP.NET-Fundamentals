@@ -1,0 +1,38 @@
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Web.ViewModels.deps.json
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Web.ViewModels.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Web.ViewModels.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Data.Models.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.GCommon.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Data.Models.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.GCommon.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.AssemblyInfo.cs
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.B83C0041.Up2Date
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\obj\Debug\net8.0\refint\Horizons.Web.ViewModels.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\obj\Debug\net8.0\ref\Horizons.Web.ViewModels.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Web.ViewModels.runtimeconfig.json
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.genruntimeconfig.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Web.ViewModels.deps.json
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Web.ViewModels.runtimeconfig.json
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Web.ViewModels.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Web.ViewModels.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Data.Models.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.GCommon.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.Data.Models.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\bin\Debug\net8.0\Horizons.GCommon.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.AssemblyInfo.cs
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.B83C0041.Up2Date
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\obj\Debug\net8.0\refint\Horizons.Web.ViewModels.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\obj\Debug\net8.0\Horizons.Web.ViewModels.genruntimeconfig.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.Web.ViewModels\obj\Debug\net8.0\ref\Horizons.Web.ViewModels.dll

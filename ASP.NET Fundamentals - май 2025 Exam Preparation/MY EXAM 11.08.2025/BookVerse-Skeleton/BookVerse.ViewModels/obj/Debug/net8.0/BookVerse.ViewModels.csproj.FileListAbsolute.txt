@@ -1,0 +1,15 @@
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\bin\Debug\net8.0\BookVerse.ViewModels.deps.json
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\bin\Debug\net8.0\BookVerse.ViewModels.dll
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\bin\Debug\net8.0\BookVerse.ViewModels.pdb
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\bin\Debug\net8.0\BookVerse.GCommon.dll
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\bin\Debug\net8.0\BookVerse.GCommon.pdb
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\obj\Debug\net8.0\BookVerse.ViewModels.csproj.AssemblyReference.cache
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\obj\Debug\net8.0\BookVerse.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\obj\Debug\net8.0\BookVerse.ViewModels.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\obj\Debug\net8.0\BookVerse.ViewModels.AssemblyInfo.cs
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\obj\Debug\net8.0\BookVerse.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\obj\Debug\net8.0\BookVers.548E279E.Up2Date
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\obj\Debug\net8.0\BookVerse.ViewModels.dll
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\obj\Debug\net8.0\refint\BookVerse.ViewModels.dll
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\obj\Debug\net8.0\BookVerse.ViewModels.pdb
+C:\Users\nikia\Desktop\BookVerse-Skeleton\BookVerse.ViewModels\obj\Debug\net8.0\ref\BookVerse.ViewModels.dll

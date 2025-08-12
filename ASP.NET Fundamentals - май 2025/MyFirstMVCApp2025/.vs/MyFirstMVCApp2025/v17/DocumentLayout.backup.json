@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikia\\source\\repos\\MyFirstMVCApp2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B41FBB4-7399-4D27-A2D5-3A29618B1AC0}|MyFirstMVCApp2025\\MyFirstMVCApp2025.csproj|c:\\users\\nikia\\source\\repos\\myfirstmvcapp2025\\myfirstmvcapp2025\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B41FBB4-7399-4D27-A2D5-3A29618B1AC0}|MyFirstMVCApp2025\\MyFirstMVCApp2025.csproj|solutionrelative:myfirstmvcapp2025\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B41FBB4-7399-4D27-A2D5-3A29618B1AC0}|MyFirstMVCApp2025\\MyFirstMVCApp2025.csproj|c:\\users\\nikia\\source\\repos\\myfirstmvcapp2025\\myfirstmvcapp2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B41FBB4-7399-4D27-A2D5-3A29618B1AC0}|MyFirstMVCApp2025\\MyFirstMVCApp2025.csproj|solutionrelative:myfirstmvcapp2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B41FBB4-7399-4D27-A2D5-3A29618B1AC0}|MyFirstMVCApp2025\\MyFirstMVCApp2025.csproj|c:\\users\\nikia\\source\\repos\\myfirstmvcapp2025\\myfirstmvcapp2025\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B41FBB4-7399-4D27-A2D5-3A29618B1AC0}|MyFirstMVCApp2025\\MyFirstMVCApp2025.csproj|solutionrelative:myfirstmvcapp2025\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\MyFirstMVCApp2025\\MyFirstMVCApp2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyFirstMVCApp2025\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\MyFirstMVCApp2025\\MyFirstMVCApp2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyFirstMVCApp2025\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T11:53:49.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\MyFirstMVCApp2025\\MyFirstMVCApp2025\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MyFirstMVCApp2025\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\MyFirstMVCApp2025\\MyFirstMVCApp2025\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MyFirstMVCApp2025\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T11:49:14.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nikia\\source\\repos\\MyFirstMVCApp2025\\MyFirstMVCApp2025\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyFirstMVCApp2025\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nikia\\source\\repos\\MyFirstMVCApp2025\\MyFirstMVCApp2025\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyFirstMVCApp2025\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:34:32.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

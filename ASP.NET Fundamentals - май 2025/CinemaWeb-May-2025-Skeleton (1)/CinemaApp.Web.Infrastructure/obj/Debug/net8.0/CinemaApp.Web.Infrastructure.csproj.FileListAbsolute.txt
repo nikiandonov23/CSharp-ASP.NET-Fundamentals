@@ -1,0 +1,16 @@
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\bin\Debug\net8.0\CinemaApp.Web.Infrastructure.deps.json
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\bin\Debug\net8.0\CinemaApp.Web.Infrastructure.dll
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\bin\Debug\net8.0\CinemaApp.Web.Infrastructure.pdb
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\bin\Debug\net8.0\CinemaApp.GCommon.dll
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\bin\Debug\net8.0\CinemaApp.GCommon.pdb
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.sourcelink.json
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaAp.492A892C.Up2Date
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.dll
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\refint\CinemaApp.Web.Infrastructure.dll
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\CinemaApp.Web.Infrastructure.pdb
+C:\Users\nikia\source\repos\ASP.NET\CinemaWeb-May-2025-Skeleton (1)\CinemaApp.Web.Infrastructure\obj\Debug\net8.0\ref\CinemaApp.Web.Infrastructure.dll

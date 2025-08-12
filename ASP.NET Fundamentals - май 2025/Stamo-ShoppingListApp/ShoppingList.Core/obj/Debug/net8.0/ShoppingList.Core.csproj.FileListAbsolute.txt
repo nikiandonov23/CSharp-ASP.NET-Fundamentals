@@ -1,0 +1,16 @@
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\obj\Debug\net8.0\ShoppingList.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\obj\Debug\net8.0\ShoppingList.Core.AssemblyInfoInputs.cache
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\obj\Debug\net8.0\ShoppingList.Core.AssemblyInfo.cs
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\obj\Debug\net8.0\ShoppingList.Core.csproj.CoreCompileInputs.cache
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\obj\Debug\net8.0\ShoppingList.Core.sourcelink.json
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\obj\Debug\net8.0\ShoppingList.Core.csproj.AssemblyReference.cache
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\bin\Debug\net8.0\ShoppingList.Core.deps.json
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\bin\Debug\net8.0\ShoppingList.Core.dll
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\bin\Debug\net8.0\ShoppingList.Core.pdb
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\bin\Debug\net8.0\ShoppingList.Infrastructure.dll
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\bin\Debug\net8.0\ShoppingList.Infrastructure.pdb
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\obj\Debug\net8.0\Shopping.0FA059B3.Up2Date
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\obj\Debug\net8.0\ShoppingList.Core.dll
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\obj\Debug\net8.0\refint\ShoppingList.Core.dll
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\obj\Debug\net8.0\ShoppingList.Core.pdb
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Core\obj\Debug\net8.0\ref\ShoppingList.Core.dll

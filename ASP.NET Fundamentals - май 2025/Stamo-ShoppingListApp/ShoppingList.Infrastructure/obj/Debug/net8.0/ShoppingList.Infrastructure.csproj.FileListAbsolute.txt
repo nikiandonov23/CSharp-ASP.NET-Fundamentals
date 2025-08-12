@@ -1,0 +1,15 @@
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\obj\Debug\net8.0\ShoppingList.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\obj\Debug\net8.0\ShoppingList.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\obj\Debug\net8.0\ShoppingList.Infrastructure.AssemblyInfo.cs
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\obj\Debug\net8.0\ShoppingList.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\obj\Debug\net8.0\ShoppingList.Infrastructure.sourcelink.json
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\obj\Debug\net8.0\ShoppingList.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\bin\Debug\net8.0\ShoppingList.Infrastructure.deps.json
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\bin\Debug\net8.0\ShoppingList.Infrastructure.runtimeconfig.json
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\bin\Debug\net8.0\ShoppingList.Infrastructure.dll
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\bin\Debug\net8.0\ShoppingList.Infrastructure.pdb
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\obj\Debug\net8.0\ShoppingList.Infrastructure.dll
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\obj\Debug\net8.0\refint\ShoppingList.Infrastructure.dll
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\obj\Debug\net8.0\ShoppingList.Infrastructure.pdb
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\obj\Debug\net8.0\ShoppingList.Infrastructure.genruntimeconfig.cache
+C:\Users\nikia\source\repos\ASP.NET\Stamo-ShoppingListApp\ShoppingList.Infrastructure\obj\Debug\net8.0\ref\ShoppingList.Infrastructure.dll

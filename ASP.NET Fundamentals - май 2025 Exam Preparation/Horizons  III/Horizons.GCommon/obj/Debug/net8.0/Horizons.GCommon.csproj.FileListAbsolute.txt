@@ -1,0 +1,28 @@
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\bin\Debug\net8.0\Horizons.GCommon.deps.json
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\bin\Debug\net8.0\Horizons.GCommon.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\bin\Debug\net8.0\Horizons.GCommon.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.AssemblyInfo.cs
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\obj\Debug\net8.0\refint\Horizons.GCommon.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.pdb
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\obj\Debug\net8.0\ref\Horizons.GCommon.dll
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\bin\Debug\net8.0\Horizons.GCommon.runtimeconfig.json
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.csproj.AssemblyReference.cache
+C:\Users\nikia\Desktop\Horizons-Skeleton\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.genruntimeconfig.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\bin\Debug\net8.0\Horizons.GCommon.deps.json
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\bin\Debug\net8.0\Horizons.GCommon.runtimeconfig.json
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\bin\Debug\net8.0\Horizons.GCommon.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\bin\Debug\net8.0\Horizons.GCommon.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.csproj.AssemblyReference.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.AssemblyInfo.cs
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\obj\Debug\net8.0\refint\Horizons.GCommon.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\obj\Debug\net8.0\Horizons.GCommon.genruntimeconfig.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\Horizons-Skeleton perfekteN\Horizons.GCommon\obj\Debug\net8.0\ref\Horizons.GCommon.dll

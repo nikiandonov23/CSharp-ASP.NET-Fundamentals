@@ -1,0 +1,27 @@
+﻿@model IEnumerable<ShoppingListApp2025.Models.Product>
+
+<h2>All Products</h2>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.Name</td>
+            <td>
+                <a asp-action="ProductNotes"
+                   asp-route-productId="@product.Id"
+                   class="btn btn-info btn-sm">
+                    View Notes
+                </a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

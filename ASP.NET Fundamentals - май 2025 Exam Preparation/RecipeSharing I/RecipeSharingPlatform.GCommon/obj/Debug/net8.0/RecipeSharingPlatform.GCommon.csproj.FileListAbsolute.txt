@@ -1,0 +1,22 @@
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.GCommon\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.deps.json
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.GCommon\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.dll
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.GCommon\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.pdb
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.AssemblyInfo.cs
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.dll
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\refint\RecipeSharingPlatform.GCommon.dll
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.pdb
+C:\Users\nikia\Desktop\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\ref\RecipeSharingPlatform.GCommon.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.GCommon\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.deps.json
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.GCommon\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.GCommon\bin\Debug\net8.0\RecipeSharingPlatform.GCommon.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.AssemblyInfoInputs.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.AssemblyInfo.cs
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.csproj.CoreCompileInputs.cache
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\refint\RecipeSharingPlatform.GCommon.dll
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\RecipeSharingPlatform.GCommon.pdb
+C:\Users\nikia\Desktop\EXAPM PREPARATION ASP.NET\RecipeSharing\RecipeSharingPlatform.GCommon\obj\Debug\net8.0\ref\RecipeSharingPlatform.GCommon.dll

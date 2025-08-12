@@ -1,0 +1,23 @@
+﻿@model IEnumerable<ShoppingListApp2025.Models.ProductNote>
+
+@{
+    ViewData["Title"] = "Product Notes";
+}
+
+<h2>Notes for "@ViewBag.ProductName"</h2>
+
+@if (!Model.Any())
+{
+    <p>No notes for this product.</p>
+}
+else
+{
+    <ul class="list-group">
+        @foreach (var note in Model)
+        {
+            <li class="list-group-item">@note.Content</li>
+        }
+    </ul>
+}
+
+<a asp-action="Products" class="btn btn-secondary mt-3">Back to Products</a>

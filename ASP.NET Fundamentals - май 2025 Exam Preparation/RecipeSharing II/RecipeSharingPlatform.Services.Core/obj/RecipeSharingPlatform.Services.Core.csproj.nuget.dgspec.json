@@ -1,0 +1,485 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Services.Core\\RecipeSharingPlatform.Services.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data.Models\\RecipeSharingPlatform.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data.Models\\RecipeSharingPlatform.Data.Models.csproj",
+        "projectName": "RecipeSharingPlatform.Data.Models",
+        "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data.Models\\RecipeSharingPlatform.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\nikia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.GCommon\\RecipeSharingPlatform.GCommon.csproj": {
+                "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.GCommon\\RecipeSharingPlatform.GCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data\\RecipeSharingPlatform.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data\\RecipeSharingPlatform.Data.csproj",
+        "projectName": "RecipeSharingPlatform.Data",
+        "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data\\RecipeSharingPlatform.Data.csproj",
+        "packagesPath": "C:\\Users\\nikia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data.Models\\RecipeSharingPlatform.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data.Models\\RecipeSharingPlatform.Data.Models.csproj"
+              },
+              "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.GCommon\\RecipeSharingPlatform.GCommon.csproj": {
+                "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.GCommon\\RecipeSharingPlatform.GCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.GCommon\\RecipeSharingPlatform.GCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.GCommon\\RecipeSharingPlatform.GCommon.csproj",
+        "projectName": "RecipeSharingPlatform.GCommon",
+        "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.GCommon\\RecipeSharingPlatform.GCommon.csproj",
+        "packagesPath": "C:\\Users\\nikia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.GCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Services.Core\\RecipeSharingPlatform.Services.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Services.Core\\RecipeSharingPlatform.Services.Core.csproj",
+        "projectName": "RecipeSharingPlatform.Services.Core",
+        "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Services.Core\\RecipeSharingPlatform.Services.Core.csproj",
+        "packagesPath": "C:\\Users\\nikia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Services.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data.Models\\RecipeSharingPlatform.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data.Models\\RecipeSharingPlatform.Data.Models.csproj"
+              },
+              "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data\\RecipeSharingPlatform.Data.csproj": {
+                "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.Data\\RecipeSharingPlatform.Data.csproj"
+              },
+              "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.ViewModels\\RecipeSharingPlatform.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.ViewModels\\RecipeSharingPlatform.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.ViewModels\\RecipeSharingPlatform.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.ViewModels\\RecipeSharingPlatform.ViewModels.csproj",
+        "projectName": "RecipeSharingPlatform.ViewModels",
+        "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.ViewModels\\RecipeSharingPlatform.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\nikia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.GCommon\\RecipeSharingPlatform.GCommon.csproj": {
+                "projectPath": "C:\\Users\\nikia\\Desktop\\RecipeSharingPlatform (1)\\RecipeSharingPlatform.GCommon\\RecipeSharingPlatform.GCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

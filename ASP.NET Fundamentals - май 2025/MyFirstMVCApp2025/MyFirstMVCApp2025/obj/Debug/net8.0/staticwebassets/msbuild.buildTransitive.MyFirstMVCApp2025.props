@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MyFirstMVCApp2025.props" />
+</Project>
